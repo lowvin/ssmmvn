@@ -1,0 +1,220 @@
+@charset "utf-8";
+/* CSS Document */
+/*公用*/
+.comWidth{
+	width:460px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+.leftArea{
+	float:left;
+	}
+.rightArea{
+	float:right;
+	}
+.hide{
+	display:none;
+	}
+.show{
+	display:block;
+	}
+/*logo*/
+.logoBar{
+	height:85px;
+	background-color:#1D7AD9;
+	}
+.logo{
+	padding-top:13px;
+	}
+.logoBar li{
+	font-size:22px;
+	font-family:"微软雅黑";
+	color:#FFF;
+	padding-top:30px;
+	padding-left:142px;
+	}
+/*登陆*/
+/*.logining{
+	display: block;
+}*/
+.loginBox{
+	border:#DDDDDD solid 1px;
+	height:355px;
+	margin-top:15px;
+	}
+.login_cont{
+	padding:40px 65px 20px 85px;
+	}
+.label_tit{
+	height:20px;
+	line-height:20px;
+	color:#DDDDDD;
+	}
+.input_md{
+	margin-bottom:13px;
+	border:#DDDDDD solid 1px;
+	padding-right:35px;
+	}
+.login_input{
+	padding-right:15px;
+	height:32px;
+	line-height:32px;
+	width:100%;
+	color:#D4D4D4;
+	text-indent: 5px;
+	}
+.user_icon{
+	background:url(../images/icon/user_icon.jpg) right center no-repeat;
+	/*margin-right:-12px;*/
+	}
+.pass_icon{
+	/*margin-right:-12px;*/
+	background: url(../images/icon/pass_icon.jpg) right center no-repeat;
+	}
+.c_box{
+	padding-top: 18px;
+}
+.box_input{
+	position:relative;
+	top: 3px;
+	margin-right:10px;
+}
+.box_label{
+	margin-right: 30px;
+	cursor:pointer;
+}
+.box_label:hover{
+	color: red;
+}
+.login_btn{
+	border-radius: 5px;
+	border: #D0E4F9 solid 1px;
+	background-color: #D1D1D1;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	text-align: center;
+	width: 310px;
+	height: 35px;
+	margin-top: 30px;
+	cursor:pointer;
+	margin-bottom: 30px;
+}
+.login_btn:hover{
+	background-color: red;
+	color: white;
+}
+.label_tit a{
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.label_tit a:hover{
+	color: red;
+}
+.reg_label{
+	width: 115px;
+	margin-left: 725px;
+	height: 32px;
+	background-color: #7CBE56;
+	color: #FFF;
+	text-align: center;
+	cursor: pointer;
+}
+.reg_label li{
+	padding-top: 8px;
+}
+.reg_label li:hover{
+	color: red;
+}
+
+/*注册*/
+/*.registering{
+	display: none;
+}*/
+.reg_box{
+	width: 635px;
+	border:#DDDDDD solid 1px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	height: 460px;
+}
+.reg_cont{
+	margin-top: 68px;
+	margin-left: 100px;
+	margin-right: 120px;
+}
+.reg_item{
+	font-size: 14px;
+	text-align: right;
+	float: left;
+	height:38px;
+	line-height: 38px;
+	width: 100px;
+	color: #D4D4D4;
+}
+.reg_item i{
+	color: red;
+	margin-right: 10px;
+}
+.reg_md{
+	margin-bottom:30px;
+	border:#DDDDDD solid 1px;
+	padding-right:35px;
+	height: 36px;
+    float: left;
+    width: 60%;
+    margin-left: 15px;
+	}
+.reg_input{
+	padding-right:15px;
+	height:36px;
+	line-height:36px;
+	width:100%;
+	color:#D4D4D4;
+	text-indent: 5px;
+	}
+.email_icon{
+	/*margin-right:-12px;*/
+	background: url(../images/icon/email_icon.jpg) right center no-repeat;
+	}
+.xy_box{
+	padding-left: 158px;
+}
+.xy_box span{
+	color:#005AA0;
+	cursor: pointer;
+}
+.xy_box span:hover{
+	color: red;
+}
+.reg_btn{
+	padding-left: 100px;
+}
+/*底部*/	
+.footer{
+	text-align:center;
+	background-color:#D4D4D4;
+	line-height:24px;
+	padding-top:50px;
+	font-family:"宋体";
+	font-size:12px;
+	}
+.footer i{
+	margin:0 5px;
+	font-style:normal;
+	}
+.footer a{
+	color:#000;
+	}
+.footer a:hover{
+	color:#F60;
+	}
+.web{
+	padding-top:32px;
+	}
+.web img{
+	margin:0 12px;
+	}
+.hr{
+	height:25px;
+	}

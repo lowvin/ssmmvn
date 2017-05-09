@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="">
+<head>
+    <meta charset="UTF-8">
+    <title>用户登录</title>
+    <script type="text/javascript" src="../js/angular/angular.js"></script>
+    <script type="text/javascript" src="../js/controller/loginController.js"></script>
+</head>
+
+<body ng-controller="loginController">
+<h3>login</h3>
+<input type="text" id="userName" name="userName" ng-model="userName"/><br><br><br>
+<input type="password" id="password" name="password" ng-model="password"/><br><br><br>
+<button ng-click="userLogin()" id="login">登录</button>
+<p>
+    {{userName}}{{loginInfo.age}}
+</p>
+</body>
+</html>
