@@ -1,0 +1,15 @@
+server:
+  port: 9092
+  context-path: /socket
+spring:
+  application:
+    name: chinaums-socket-server
+chinaums: 
+  channelId: B1002063                         #富亿贷渠道ID
+  server-port: 8203                          #服务端socket端口
+#  server-port: 5209                           #服务端socket端口
+  #client-host: 58.247.0.18                    #客户端socket地址
+  client-host: 10.168.96.75                   #客户端socket地址
+  client-port: 8203                           #客户端socket端口
+  
+  

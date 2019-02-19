@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Built-By: kj00047
+Class-Path: . lib/spring-boot-starter-web-1.5.9.RELEASE.jar lib/spring
+ -boot-starter-1.5.9.RELEASE.jar lib/spring-boot-1.5.9.RELEASE.jar lib
+ /spring-boot-autoconfigure-1.5.9.RELEASE.jar lib/spring-boot-starter-
+ logging-1.5.9.RELEASE.jar lib/logback-classic-1.1.11.jar lib/logback-
+ core-1.1.11.jar lib/jul-to-slf4j-1.7.25.jar lib/log4j-over-slf4j-1.7.
+ 25.jar lib/snakeyaml-1.17.jar lib/spring-boot-starter-tomcat-1.5.9.RE
+ LEASE.jar lib/tomcat-embed-core-8.5.23.jar lib/tomcat-annotations-api
+ -8.5.23.jar lib/tomcat-embed-el-8.5.23.jar lib/tomcat-embed-websocket
+ -8.5.23.jar lib/hibernate-validator-5.3.6.Final.jar lib/validation-ap
+ i-1.1.0.Final.jar lib/jboss-logging-3.3.0.Final.jar lib/classmate-1.3
+ .1.jar lib/jackson-databind-2.8.10.jar lib/jackson-annotations-2.8.0.
+ jar lib/spring-web-4.3.13.RELEASE.jar lib/spring-webmvc-4.3.13.RELEAS
+ E.jar lib/json-smart-2.2.1.jar lib/accessors-smart-1.1.jar lib/asm-5.
+ 0.3.jar lib/junit-4.12.jar lib/hamcrest-core-1.3.jar lib/spring-core-
+ 4.3.13.RELEASE.jar lib/spring-test-4.3.13.RELEASE.jar lib/spring-boot
+ -starter-aop-1.5.9.RELEASE.jar lib/spring-aop-4.3.13.RELEASE.jar lib/
+ aspectjweaver-1.8.13.jar lib/spring-boot-starter-data-redis-1.5.9.REL
+ EASE.jar lib/spring-data-redis-1.8.9.RELEASE.jar lib/spring-data-keyv
+ alue-1.2.9.RELEASE.jar lib/spring-data-commons-1.13.9.RELEASE.jar lib
+ /spring-oxm-4.3.13.RELEASE.jar lib/jcl-over-slf4j-1.7.25.jar lib/jedi
+ s-2.9.0.jar lib/commons-pool2-2.4.2.jar lib/netty-socketio-1.7.16.jar
+  lib/netty-buffer-4.1.25.Final.jar lib/netty-common-4.1.25.Final.jar 
+ lib/netty-transport-4.1.25.Final.jar lib/netty-resolver-4.1.25.Final.
+ jar lib/netty-handler-4.1.25.Final.jar lib/netty-codec-http-4.1.25.Fi
+ nal.jar lib/netty-codec-4.1.25.Final.jar lib/netty-transport-native-e
+ poll-4.1.25.Final.jar lib/netty-transport-native-unix-common-4.1.25.F
+ inal.jar lib/slf4j-api-1.7.21.jar lib/dubbo-2.5.3.jar lib/javassist-3
+ .15.0-GA.jar lib/netty-3.2.5.Final.jar lib/zookeeper-3.4.6.jar lib/sl
+ f4j-log4j12-1.6.1.jar lib/log4j-1.2.16.jar lib/jline-0.9.94.jar lib/n
+ etty-3.7.0.Final.jar lib/zkclient-0.1.jar lib/jackson-core-2.7.4.jar 
+ lib/fastjson-1.2.44.jar lib/netty-all-4.1.6.Final.jar lib/commons-lan
+ g-2.6.jar lib/nlp-chinaums-api-0.0.1-SNAPSHOT.jar lib/nlp-bean-0.0.1-
+ SNAPSHOT.jar lib/trustsign-facade-0.0.1-SNAPSHOT.jar lib/nlp-common-0
+ .0.90-SNAPSHOT.jar lib/commons-codec-1.10.jar lib/gson-2.4.jar lib/js
+ on-lib-2.2.3-jdk15.jar lib/commons-beanutils-1.7.0.jar lib/commons-co
+ llections-3.2.jar lib/ezmorph-1.0.6.jar lib/httpclient-4.4.1.jar lib/
+ httpmime-4.4.1.jar lib/httpcore-4.4.1.jar lib/commons-io-2.0.1.jar li
+ b/javax.servlet-api-3.0.1.jar lib/aopalliance-1.0.jar lib/spring-aspe
+ cts-4.2.5.RELEASE.jar lib/dom4j-1.6.1.jar lib/xml-apis-1.0.b2.jar lib
+ /spring-jdbc-3.0.5.RELEASE.jar lib/poi-3.9.jar lib/poi-ooxml-3.9.jar 
+ lib/poi-ooxml-schemas-3.9.jar lib/xmlbeans-2.3.0.jar lib/stax-api-1.0
+ .1.jar lib/flying-saucer-pdf-itext5-9.0.8.jar lib/itextpdf-5.3.0.jar 
+ lib/flying-saucer-core-9.0.8.jar lib/poi-scratchpad-3.9.jar lib/commo
+ ns-net-1.4.1.jar lib/oro-2.0.8.jar lib/jsch-0.1.54.jar lib/jsoup-1.9.
+ 2.jar lib/nlp-log-0.0.1-SNAPSHOT.jar lib/poolman-2.0.4.jar lib/common
+ s-logging-1.1.3.jar lib/log4jdbc-log4j2-jdbc4.1-1.16.jar lib/jdbc-dri
+ ver-11g.jar lib/jsonevent-layout-1.7.jar lib/xercesImpl-2.2.1.jar lib
+ /nlp-facade-apply-0.0.90-SNAPSHOT.jar lib/persistence-api-1.0.jar lib
+ /springfox-swagger2-2.2.2.jar lib/mapstruct-1.0.0.CR1.jar lib/swagger
+ -annotations-1.5.3.jar lib/swagger-models-1.5.3.jar lib/springfox-spi
+ -2.2.2.jar lib/springfox-core-2.2.2.jar lib/springfox-schema-2.2.2.ja
+ r lib/springfox-swagger-common-2.2.2.jar lib/springfox-spring-web-2.2
+ .2.jar lib/guava-18.0.jar lib/aspectjrt-1.8.6.jar lib/spring-plugin-c
+ ore-1.2.0.RELEASE.jar lib/spring-plugin-metadata-1.2.0.RELEASE.jar li
+ b/spring-hateoas-0.18.0.RELEASE.jar lib/nlp-facade-tjy-0.0.3-SNAPSHOT
+ .jar lib/nlp-facade-allinpay-0.0.1-SNAPSHOT.jar lib/nlp-allinpal-api-
+ 0.0.1-SNAPSHOT.jar lib/nlp-facade-activemq-0.0.90-SNAPSHOT.jar lib/nl
+ p-facade-account-0.0.90-SNAPSHOT.jar lib/spring-tx-4.2.5.RELEASE.jar 
+ lib/spring-context-4.2.5.RELEASE.jar lib/nlp-facade-rptbatch-0.0.90-S
+ NAPSHOT.jar lib/nlp-sleuth-master-0.0.1-SNAPSHOT.jar lib/spring-beans
+ -4.3.13.RELEASE.jar lib/spring-context-support-4.3.13.RELEASE.jar lib
+ /spring-expression-4.3.13.RELEASE.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: com.uaf.chinaums.socket.server.ChinaumsSocketServerApplica
+ tion
+
